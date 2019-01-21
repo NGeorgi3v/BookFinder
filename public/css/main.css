@@ -1,0 +1,37 @@
+body{
+    background-color: #f4f4f4;
+    font-family: 'Courier New', Courier, monospace;
+    color: #34495e; 
+}
+
+header h1,
+header p,
+footer{
+    text-align: center;
+}
+
+header h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 18px;
+}
+
+span#special{
+    font-weight: bold;
+}
+
+.container{
+    background-color: #fff;
+    min-height: 600px;
+}
+
+footer{
+    border-top: 3px solid #34495e;
+}
+
+.footer_text{
+    font-family: 'Times New Roman', Times, serif;
+}
